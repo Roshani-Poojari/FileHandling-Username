@@ -1,0 +1,14 @@
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.exe
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.deps.json
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.runtimeconfig.json
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.dll
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\bin\Debug\net8.0\FileHandlingApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.AssemblyInfoInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.AssemblyInfo.cs
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.dll
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\refint\FileHandlingApp.dll
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\FileHandlingApp.genruntimeconfig.cache
+C:\Users\roshani.poojari\Desktop\Training\FileHandlingApp\obj\Debug\net8.0\ref\FileHandlingApp.dll
